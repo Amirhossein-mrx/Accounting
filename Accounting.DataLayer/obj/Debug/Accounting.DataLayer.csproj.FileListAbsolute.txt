@@ -1,0 +1,14 @@
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.AssemblyReference.cache
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb

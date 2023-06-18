@@ -1,0 +1,6 @@
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+D:\dars\computer\Amozesh\c#\toplearn_2\Project\Accounting\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
